@@ -1,4 +1,4 @@
-# Sample automated test script for cin7 website
+# Automated test script for cin7 website
 
 ## Installation
 Install Java JDK latest version.
