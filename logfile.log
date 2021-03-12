@@ -1,0 +1,42 @@
+2021-03-12 21:59:54,553 INFO  [Log] Opened cin7 website and maximized window 
+2021-03-12 21:59:54,897 INFO  [Log] Accepted cookies 
+2021-03-12 21:59:57,295 INFO  [Log] Clicked on Chatbot icon 
+2021-03-12 21:59:59,409 INFO  [Log] Moved the focus onto the Chat bot modal 
+2021-03-12 22:00:00,513 INFO  [Log] Sent a message. 
+2021-03-12 22:00:00,695 INFO  [Log] Driver closed now. 
+2021-03-12 22:00:11,891 INFO  [Log] Opened cin7 website and maximized window 
+2021-03-12 22:00:12,517 INFO  [Log] Accepted cookies 
+2021-03-12 22:00:15,808 INFO  [Log] Checking title of the navigated page. 
+2021-03-12 22:00:15,947 INFO  [Log] Entered username. 
+2021-03-12 22:00:16,122 INFO  [Log] Entered password. 
+2021-03-12 22:00:17,323 INFO  [Log] Clicked login. 
+2021-03-12 22:00:17,365 INFO  [Log] Got invalid login error message 
+2021-03-12 22:00:19,829 INFO  [Log] Clicked try for free button. 
+2021-03-12 22:00:19,844 INFO  [Log] Checked the title of the current page. 
+2021-03-12 22:00:19,905 INFO  [Log] Waited till the visibility of Request demo text. 
+2021-03-12 22:00:19,912 INFO  [Log] Checked the title of the current page. 
+2021-03-12 22:00:19,959 INFO  [Log] Switched to the Request Demo form. 
+2021-03-12 22:00:20,170 INFO  [Log] Entered first name 
+2021-03-12 22:00:20,347 INFO  [Log] Entered last name 
+2021-03-12 22:00:20,499 INFO  [Log] Entered email 
+2021-03-12 22:00:20,661 INFO  [Log] Entered company 
+2021-03-12 22:00:20,795 INFO  [Log] Entered phone 
+2021-03-12 22:00:20,906 INFO  [Log] Selected country from dropdown 
+2021-03-12 22:00:21,089 INFO  [Log] Selected channel from dropdown. 
+2021-03-12 22:00:21,252 INFO  [Log] Selected number of resources from dropdown 
+2021-03-12 22:00:24,476 INFO  [Log] Clicked Request for demo button 
+2021-03-12 22:00:24,484 INFO  [Log] Driver closed now. 
+2021-03-12 22:00:35,507 INFO  [Log] Opened cin7 website and maximized window 
+2021-03-12 22:00:35,833 INFO  [Log] Accepted cookies 
+2021-03-12 22:00:40,207 INFO  [Log] Clicked on Watch Video button 
+2021-03-12 22:00:41,135 INFO  [Log] Switched to video frame 
+2021-03-12 22:00:43,296 INFO  [Log] Started to play video 
+2021-03-12 22:00:53,508 INFO  [Log] Came out of video frame 
+2021-03-12 22:00:53,727 INFO  [Log] Closed the video frame 
+2021-03-12 22:00:53,732 INFO  [Log] Driver closed now. 
+2021-03-12 22:01:06,818 INFO  [Log] Opened cin7 website and maximized window 
+2021-03-12 22:01:07,206 INFO  [Log] Accepted cookies 
+2021-03-12 22:01:11,164 INFO  [Log] Clicked on see all integrations link. 
+2021-03-12 22:01:11,187 INFO  [Log] Switched to the newly opened tab 
+2021-03-12 22:01:11,187 INFO  [Log] Switched to a tab where integration link is opened 
+2021-03-12 22:01:12,672 INFO  [Log] Driver closed now. 

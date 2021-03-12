@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Cin7 Test" verbose="1" parallel="tests" thread-count="1">
+    <test name="Testing the Chat Bot">
+        <classes>
+            <class name="ChatBotTest"/>
+        </classes>
+    </test>
+    <test name="Login test including request demo">
+        <classes>
+            <class name="LoginTest"/>
+        </classes>
+    </test>
+    <test name="Play YouTube video test">
+        <classes>
+            <class name="VideoPlayTest"/>
+        </classes>
+    </test>
+    <test name="Open link in new tab test">
+        <classes>
+            <class name="NewTabTest"/>
+        </classes>
+    </test>
+</suite>
